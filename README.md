@@ -4,8 +4,9 @@ In rush hour game, one target car (shown in red) should be
 moved out of the 6x6 board by moving other cars horizontally or vertically.
 An example starting and ending states of a board are shown below.
 
-![image_start]("images/image_start.jpg")
-![image_end]("images/image_end.jpg")
+Starting board             |  Ending board
+:-------------------------:|:-------------------------:
+![image_start](images/image_start.jpg)  |  ![image_end](images/image_end.jpg)
 
 Breadth-first search (BFS) and depth-first search (DFS) algorithms are used with C++ code for this problem.
 
